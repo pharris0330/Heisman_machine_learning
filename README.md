@@ -29,7 +29,7 @@ We were only able to do minimal optimization and analysis of the features. This 
 Dictionary: 
 
 
-|Code|
+| Code |
 ||Workbook Name|Folder|Description|
 |---|---|---|---|
 |Passing|code|Code book for web scraping player passing data| 
@@ -43,8 +43,8 @@ Dictionary:
 |Neural Networks|code|Code book for modeling with Neural Networks|
 
 
-|Data|
-||Workbook Name|Folder|Description|
+|| Data |
+||Work book Name|Folder|Description|
 |---|---|---|---|
 |Passing|Data|Compilation of passing data pertaining to player, team, and Heisman stats|
 |Rushing|Data|Compilation of rushing data pertaining to player, team, and Heisman stats|
